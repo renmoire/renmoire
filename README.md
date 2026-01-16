@@ -7,3 +7,5 @@ I enjoy building small programs and slowly improving my skills.
 - 🖇️ Honkai: Star Rail enthusiast
 - 🌷 Firefly is my favorite (I love her that much)
 - 🧸 Firefly.
+
+<img src="assets/firefly.png"/>
