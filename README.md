@@ -8,4 +8,4 @@ I enjoy building small programs and slowly improving my skills.
 - 🌷 Firefly is my favorite (I love her that much)
 - 🧸 Firefly.
 
-<img src="assets/firefly.png"/>
+<img src="assets/gf.gif"/>
