@@ -1,5 +1,10 @@
+<h2 align="left>About <span style="color:#2f81f7;">Ren<span></h2>
 
-Tech Stack:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=Blender&logoColor=white)
+CS student who codes, learns, and sometimes gets lost in games ✨  
+I enjoy building small programs and slowly improving my skills.
 
+- 🌱 Learning programming fundamentals
+- 🎮 Honkai: Star Rail enthusiast
+- 💚 Firefly is my favorite (I love her that much)
+- 📚 Studying, coding, and enjoying simple hobbies
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
