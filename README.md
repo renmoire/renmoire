@@ -1,4 +1,4 @@
-<h2 align="left">About <span style="color:#EDEDCE;">Ren</span></h2>
+## About [Ren](https://github.com/renmoire)
 
 Software engineer student who sometimes gets lost in games (it's terrible I suppose)  
 I enjoy building small programs and slowly improving my skills.
